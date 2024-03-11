@@ -1,0 +1,7 @@
+1 - Ligararia o primeiro interruptor e aguarde alguns minutos
+2 - Dps de alguns minutos, desligue o primeiro interruptor e ligue o segundo interruptor
+3 - Entre dentro da sala onde está as lampadas
+
+Se houver uma lampada ligada, significa que o primeiro interruptor possa controlar aquela lampada
+
+Se não houver lampada acessa e todas estiverem frias, pode significar que o terceiro interruptor controla as lampadas
